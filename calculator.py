@@ -32,7 +32,6 @@ while True:
           print("Error: cannot divide by 0")
        else:  
           print("Result:",divide(a,b))
-
  except ValueError:
     print("wrong value!!\nPlease enter the valid numbers.")
 
